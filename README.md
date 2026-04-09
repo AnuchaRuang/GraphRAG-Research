@@ -3,6 +3,9 @@
 This roadmap outlines the systematic approach to developing and evaluating our GraphRAG system, focusing on multi-source knowledge integration and reasoning.
 
 ## Phase 1: Data Acquisition & Pre-processing
+
+[Document (PDF,text)] -> [Chunk (JSON)] -> [Cleaning]
+
 [x] Document Ingestion: Support for PDF, Markdown, and Plain Text formats.
 
 [x] Text Chunking: Implementation of RecursiveCharacterTextSplitter with semantic overlap.
