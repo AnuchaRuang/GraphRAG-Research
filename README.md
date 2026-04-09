@@ -10,9 +10,9 @@ This roadmap outlines the systematic approach to developing and evaluating our G
 [ ] Data Cleaning: Developing a pipeline to remove noise and handle Thai-specific character encoding issues.
 
 ## Phase 2: Knowledge Graph Construction
-[x] Entity & Relation Extraction: Utilizing Gemini 3 Flash via LLMGraphTransformer.
+[ ] Entity & Relation Extraction: Utilizing Gemini 3 Flash via LLMGraphTransformer.
 
-[x] Semantic Standardization: Implementing a Deterministic ID system (snake_case) for cross-document entity resolution.
+[ ] Semantic Standardization: Implementing a Deterministic ID system (snake_case) for cross-document entity resolution.
 
 [ ] Graph Storage: Integrating with Neo4j for persistent storage of triples.
 
