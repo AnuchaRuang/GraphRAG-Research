@@ -12,7 +12,7 @@ This roadmap outlines the systematic approach to developing and evaluating our G
 
 [ ] Data Cleaning: Developing a pipeline to remove noise and handle Thai-specific character encoding issues.
 
-Tools:
+### Tools:
 - Google Colab
 
 ## Phase 2: Knowledge Graph Construction
