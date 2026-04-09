@@ -6,9 +6,9 @@ This roadmap outlines the systematic approach to developing and evaluating our G
 
 [Document (PDF,text)] -> [Chunk (JSON)] -> [Cleaning]
 
-[x] Document Ingestion: Support for PDF, Markdown, and Plain Text formats.
+### [x] Document Ingestion: Support for PDF, Markdown, and Plain Text formats.
 
-[x] Text Chunking: Implementation of RecursiveCharacterTextSplitter with semantic overlap.
+### [x] Text Chunking: Implementation of RecursiveCharacterTextSplitter with semantic overlap.
 
 [ ] Data Cleaning: Developing a pipeline to remove noise and handle Thai-specific character encoding issues.
 
