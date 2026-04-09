@@ -48,3 +48,7 @@ Orchestration: LangChain, LangGraph
 Database: Neo4j (Graph), ChromaDB (Vector)
 
 Language: Python 3.10+
+
+## Referances
+[1]
+...
