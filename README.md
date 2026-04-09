@@ -12,6 +12,9 @@ This roadmap outlines the systematic approach to developing and evaluating our G
 
 [ ] Data Cleaning: Developing a pipeline to remove noise and handle Thai-specific character encoding issues.
 
+Tools:
+- Google Colab
+
 ## Phase 2: Knowledge Graph Construction
 [ ] Entity & Relation Extraction: Utilizing Gemini 3 Flash via LLMGraphTransformer.
 
